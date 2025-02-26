@@ -45,8 +45,8 @@ course-assigning-app/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/course-assigning-app.git
-cd course-assigning-app
+git clone https://github.com/Akashkilledar/Course-Assign-Project-MERN.git
+cd course-assign-project
 ```
 
 ### 2️⃣ Backend Setup
